@@ -1,6 +1,6 @@
 
 <img src="https://engsci.utoronto.ca/wp-content/uploads/2023/02/EngSci_Signature_655.svg" alt="University of Toronto Division of Engineering Science" style="width:100%" />
-<img src="https://en.wikipedia.org/wiki/Johnson_Controls#/media/File:Johnson_Controls.svg" alt="Johnson Controls" style="width:100%" />
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Johnson_Controls.svg/1920px-Johnson_Controls.svg.png" alt="Johnson Controls" style="width:100%" />
 
 <h1 align="center">👋👋 MiaoE here</h1>
 
