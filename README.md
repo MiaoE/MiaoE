@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="center">:desktop_computer: DevOps Developer at JCI</h3>
+<!--h3 align="center">:desktop_computer: DevOps Developer at JCI</h3-->
 <h3 align="center">:school: Engineering Science student at the University of Toronto</h3>
 
 ---
