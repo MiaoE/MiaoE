@@ -6,24 +6,12 @@
 ---
 
 <!--h3 align="center">:desktop_computer: DevOps Developer at JCI</h3-->
-<h3 align="center">:school: Engineering Science student at the University of Toronto</h3>
+<h3 align="center">:school: University of Toronto</h3>
+<h4 align="center">:mortar_board: Engineering Science</h4>
+<h4 align="center">:mag: Specialization in Machine Intelligence</h4>
 
 ---
 
 <div align="center" valign="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars&show_icons=true&theme=algolia" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata" />
 </div>
-<!--
-**MiaoE/MiaoE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
