@@ -2,7 +2,7 @@
 <!-- HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=Hello!;I'm+Eric+Miao;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Hello!;I'm+Eric+Miao;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 </div>
 
 <!-- ABOUT ME section -->
