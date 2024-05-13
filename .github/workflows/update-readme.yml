@@ -1,16 +1,16 @@
 name: Update README
 
 on:
-  # pull_request:
-  #   types:
-  #     - closed
-  # schedule:
-  #   - cron: '0 5 * * 1'
-  # workflow_dispatch:
+  pull_request:
+    types:
+      - closed
+  schedule:
+    - cron: '0 5 * * 1'
+  workflow_dispatch:
 
 jobs:
   build:
-    name: Update this repo's README with recent activities
+    name: Update this repo's README
     runs-on: ubuntu-latest
     permissions:
       contents: write
