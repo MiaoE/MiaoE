@@ -35,5 +35,6 @@ Hey, my name is Eric Miao. I currently study at the University of Toronto, speci
 <div align="center" valign="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars&show_icons=true&theme=algolia" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata" />
 </div>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=MiaoE&theme=algolia)](https://git.io/streak-stats)
 </details>
