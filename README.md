@@ -61,3 +61,14 @@ Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, AWS
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MiaoE&theme=algolia)](https://git.io/streak-stats)
 </details>
+
+<!-- section break -->
+
+<h3 align="center">Contact</h3>
+
+------
+
+<details>
+<summary>Where you can find me</summary>
+nowhere
+</details>
