@@ -8,6 +8,7 @@
 <!-- ABOUT ME section -->
 <details>
 <summary>About Me</summary>
+
 Hey! My name is Eric Miao, currently studying at the University of Toronto. I have years of experience in programming, mainly with Python and Java.
 I am also currently working on a big AI project for fun!
 
