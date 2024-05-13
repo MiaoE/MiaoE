@@ -18,7 +18,7 @@ things I also ambitiously want to achieve, including getting a motorcycle licens
 project before the next decade, and travel around the world :D
 
 
-Well, that's all I have so far that I want to present to you. Below are just some more information about me and my skill sets. *Plz hire me*
+Well, that's all I have so far that I want to present to you. Below are just some more information about me and my skill sets. **Plz hire me**
 </details>
 
 <!-- Subsections of my profile -->
