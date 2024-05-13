@@ -8,7 +8,7 @@
 <!-- ABOUT ME section -->
 <details>
 <summary>About Me</summary>
-Hey, my name is Eric Miao. I currently study at the University of Toronto, specializing in Machine Intelligence.
+Hey! My name is Eric Miao. I currently study at the University of Toronto, specializing in Machine Intelligence.
 </details>
 
 <!-- Subsections of my profile -->
@@ -22,6 +22,29 @@ Hey, my name is Eric Miao. I currently study at the University of Toronto, speci
 <!--h3 align="center">:school: University of Toronto</h3>
 <h4 align="center">:mortar_board: Engineering Science</h4-->
 <h4>:mag: Specialization in Machine Intelligence</h4>
+</details>
+
+<!-- section break -->
+
+<h3 align="center">Knowledge</h3>
+
+------
+
+<details>
+<summary>This is where I like to keep track of what tools, concepts, and skills I learned and attempted to apply</summary>
+
+### Skills
+<sub>just a small to do: add icons lol</sub>
+Python, Java, C/C++, Groovy, <sub>I swear there's more</sub>
+
+### Specialized Concepts
+#### Artificial Intelligence and Machine Learning
+Embedding, Embedding Model, Vector Database, LLM (Large Language Model)
+#### Others from EngSci
+Physiology (idk why this is relevant)
+
+### Tools and Libraries
+Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, AWS, Docker, GitHub workflow, pipeline (Jenkins), SQL Server
 </details>
 
 <!-- section break -->
