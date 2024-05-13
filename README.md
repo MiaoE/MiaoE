@@ -35,6 +35,7 @@ Hey! My name is Eric Miao. I currently study at the University of Toronto, speci
 
 ### Skills
 <sub>just a small to do: add icons lol</sub>
+
 Python, Java, C/C++, Groovy, <sub>I swear there's more</sub>
 
 ### Specialized Concepts
