@@ -5,10 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=Hello!;I'm+Eric+Miao;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 </div>
 
-<!-- Internship location LOGO no longer in use -->
-<!--img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Johnson_Controls.svg/1920px-Johnson_Controls.svg.png" alt="Johnson Controls" style="width:40%" /-->
-<!-- Internship position no longer in use -->
-<!--h3 align="center">:desktop_computer: DevOps Developer at JCI</h3-->
 
 <h3 align="center">Education</h3>
 
