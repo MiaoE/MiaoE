@@ -8,7 +8,15 @@
 <!-- ABOUT ME section -->
 <details>
 <summary>About Me</summary>
-Hey! My name is Eric Miao. I currently study at the University of Toronto, specializing in Machine Intelligence.
+Hey! My name is Eric Miao, currently studying at the University of Toronto. I am currently working on a big AI project for fun
+
+Even though I spend lots of time in front of VSCode and Google, I also have lots of hobbies I enjoy. Some notable ones are driving manuals, piloting boats, currently learning
+how to pilot an aircraft, going to gun ranges and airgun ranges, biking, 3D printing, and just chillin at home watching YouTube and learning new things. There are tons of
+things I also ambitiously want to achieve, including getting a motorcycle license, a pilot's license for both aircrafts and helicopters (long term goal), finishing the big AI
+project before the next decade, and travel around the world :D
+
+
+Well, that's all I have so far that I want to present to you. Below are just some more information about me and my skill sets. *Plz hire me*
 </details>
 
 <!-- Subsections of my profile -->
