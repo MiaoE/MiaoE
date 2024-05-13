@@ -18,7 +18,7 @@
 <img src="https://engsci.utoronto.ca/wp-content/uploads/2023/02/EngSci_Signature_655.svg" alt="University of Toronto Division of Engineering Science" style="width:60%" />
 <!--h3 align="center">:school: University of Toronto</h3>
 <h4 align="center">:mortar_board: Engineering Science</h4-->
-<h4 align="center">:mag: Specialization in Machine Intelligence</h4>
+<h4>:mag: Specialization in Machine Intelligence</h4>
 </details>
 
 <!-- Section Break -->
