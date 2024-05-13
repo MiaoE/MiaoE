@@ -70,7 +70,7 @@ Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, AWS
 <div align="center" valign="center">
 
 <!--https://git.io/streak-stats-->
-![GitHub Streak](https://streak-stats.demolab.com?user=MiaoE&theme=algolia&card_width=750)
+![GitHub Streak](https://streak-stats.demolab.com?user=MiaoE&theme=algolia&card_width=800)
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars&show_icons=true&theme=algolia&card_width=850)
