@@ -2,7 +2,8 @@
 <!-- HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Hello!;I'm+Eric+Miao;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+<!--https://git.io/typing-svg-->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=Hello!;I'm+Eric+Miao;Welcome+to+my+GitHub+profile!)
 </div>
 
 <!-- ABOUT ME section -->
@@ -68,11 +69,13 @@ Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, AWS
 
 <div align="center" valign="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<!--https://github.com/anuraghazra/github-readme-stats-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars&show_icons=true&theme=algolia&card_width=750)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata")](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata&card_width=750)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MiaoE&theme=algolia)](https://git.io/streak-stats)
+<!--https://git.io/streak-stats-->
+![GitHub Streak](https://streak-stats.demolab.com?user=MiaoE&theme=algolia&card_width=750)
 </div>
 </details>
 
