@@ -68,7 +68,7 @@ Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, AWS
 
 <div align="center" valign="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars&show_icons=true&theme=algolia")](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata")](https://github.com/anuraghazra/github-readme-stats)
 
