@@ -1,6 +1,7 @@
 <!-- 👋👋 stalkers, if you're reading this, you are probably on the source code of my profile's README :) -->
 
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=Hello!;I'm+Eric+Miao;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 </div>
 
