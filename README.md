@@ -27,6 +27,7 @@ Well, that's all I have so far that I want to present to you. Below are just som
 
 <details>
 <summary>University of Toronto</summary>
+
 <img src="https://engsci.utoronto.ca/wp-content/uploads/2023/02/EngSci_Signature_655.svg" alt="University of Toronto Division of Engineering Science" style="width:60%" />
 <!--h3 align="center">:school: University of Toronto</h3>
 <h4 align="center">:mortar_board: Engineering Science</h4-->
@@ -64,11 +65,14 @@ Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, AWS
 
 <details>
 <summary>View Cards</summary>
+
 <div align="center" valign="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars&show_icons=true&theme=algolia" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars&show_icons=true&theme=algolia")](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata")](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MiaoE&theme=algolia)](https://git.io/streak-stats)
+</div>
 </details>
 
 <!-- section break -->
