@@ -46,7 +46,9 @@ Well, that's all I have so far that I want to present to you. Below are just som
 
 ### Skills
 <!--sub>just a small to do: add icons lol</sub-->
-Python, Java, C/C++, Groovy, <sub>I swear there's more</sub>
+![My Skills (Languages)](https://skillicons.dev/icons?perline=3&i=java,py,c,cpp,arduino)
+
+Groovy, <sub>I swear there's more</sub>
 
 ### Specialized Concepts
 #### Artificial Intelligence and Machine Learning
@@ -55,7 +57,9 @@ Embedding, Embedding Model, Vector Database, LLM (Large Language Model)
 Physiology (idk why this is relevant)
 
 ### Tools and Libraries
-Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, AWS, Docker, GitHub workflow, pipeline (Jenkins), SQL Server
+![My Skills (Tools)](https://skillicons.dev/icons?perline=7&i=aws,docker,flutter,git,github,gradle,jenkins,mysql,nextjs,npm,nodejs,pytorch,react,selenium,ubuntu,yarn)
+
+Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, GitHub workflow, SQL Server
 </details>
 
 <!-- section break -->
