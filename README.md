@@ -46,7 +46,7 @@ Well, that's all I have so far that I want to present to you. Below are just som
 
 ### Skills
 <!-- https://skillicons.dev -->
-![My Skills (Languages)](https://skillicons.dev/icons?perline=8&i=java,py,c,cpp,arduino)
+![My Skills (Languages)](https://skillicons.dev/icons?perline=8&i=java,py,c,cpp,matlab,arduino)
 
 Groovy, <sub>I swear there's more</sub>
 
