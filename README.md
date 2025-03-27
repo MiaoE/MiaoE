@@ -91,5 +91,5 @@ Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, Git
 
 <details>
 <summary>Contact Information</summary>
-ericxmiao@gmail.com
+<a href="mailto:ericxmiao@gmail.com">ericxmiao@gmail.com</a>
 </details>
