@@ -90,6 +90,6 @@ Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, Git
 ------
 
 <details>
-<summary>Where you can find me</summary>
-nowhere
+<summary>Contact Information</summary>
+ericxmiao@gmail.com
 </details>
