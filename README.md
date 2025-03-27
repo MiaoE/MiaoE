@@ -77,11 +77,10 @@ Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, Git
 ![GitHub Streak](https://streak-stats.demolab.com?user=MiaoE&theme=algolia&card_width=850)
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars&show_icons=true&theme=algolia&card_width=850)
-
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars,issues,contribs&show_icons=true&theme=algolia&card_width=850)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata)
+</div>
 </details>
 
 <!-- section break -->
