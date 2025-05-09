@@ -10,15 +10,13 @@
 <details>
 <summary>About Me</summary>
 
-Hey! My name is Eric Miao, currently studying at the University of Toronto. I have years of experience in programming, mainly with Python and Java.
-I am also currently working on a big AI project for fun!
+Hey! My name is Eric Miao, currently studying at the University of Toronto. I program in Python and Java.
+My current focus is on ML/AI (very broad terms), but my interests lie in computer vision and LLM, and currently working on an LLM project!
 
-Even though I spend lots of time in front of VSCode and Google, I also have lots of hobbies I enjoy. Some notable ones are driving manuals, piloting boats, currently learning
-how to pilot an aircraft, going to gun ranges and airgun ranges, biking, 3D printing, and just chillin at home watching YouTube and learning new things. There are tons of
-things I also ambitiously want to achieve, including getting a motorcycle license, a pilot's license for both aircrafts and helicopters (long term goal), finishing the big AI
-project before the next decade, and travel around the world :D
+I dislike sitting in front of computer for long times, so I explored a lot of hobbies to enjoy. I love driving stick, biking, going to gun and airgun ranges, learning how to 3D design
+and 3D printing, self-learning flight training manual, and just chillin at home watching YouTube and learning new things. There are also goals I am ambitiously pursuing, including getting a motorcycle license, a pilot's license for both fixed-wing aircrafts and helicopters, finishing the project I mentioned before the next decade, and travelling around the world :D
 
-Well, that's all I have so far that I want to present to you. Below are just some more information about me and my skill sets. **Plz hire me**
+Well, that's all I have so far. Below are just some more information about me and my technical skills. **Plz hire me**
 </details>
 
 <!-- Subsections of my profile -->
@@ -42,24 +40,21 @@ Well, that's all I have so far that I want to present to you. Below are just som
 ------
 
 <details>
-<summary>This is where I like to keep track of what tools, concepts, and skills I learned and attempted to apply</summary>
+<summary>Keeping track of tools, concepts, and skills I learned</summary>
 
 ### Skills
 <!-- https://skillicons.dev -->
 ![My Skills (Languages)](https://skillicons.dev/icons?perline=8&i=java,py,c,cpp,matlab,arduino)
 
-Groovy, <sub>I swear there's more</sub>
+### Artificial Intelligence and Machine Learning
+![My Skills (Frameworks)](https://skillicons.dev/icons?perline=8&i=pytorch,tensorflow)
 
-### Specialized Concepts
-#### Artificial Intelligence and Machine Learning
-Embedding, Embedding Model, Vector Database, LLM (Large Language Model)
-#### Others from EngSci
-Physiology (idk why this is relevant)
+**Concepts**:\\
+Supervised Learning, Unsupervised Learning, Reinforcement Learning\\
+Neural Networks (MLP, CNN, RNN, GNN), Auto-encoders, Attention and Transformers, Interpretability, LLM
 
 ### Tools and Libraries
-![My Skills (Tools)](https://skillicons.dev/icons?perline=8&i=aws,docker,flutter,git,github,gradle,jenkins,mysql,nextjs,npm,nodejs,pytorch,react,selenium,ubuntu,yarn)
-
-Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, GitHub workflow, SQL Server
+![My Skills (Tools)](https://skillicons.dev/icons?perline=8&i=aws,docker,mysql,sqlite,flutter,git,github,gradle,jenkins,nextjs,npm,nodejs,pytorch,react,selenium,ubuntu,yarn,tailwind)
 </details>
 
 <!-- section break -->
@@ -79,7 +74,7 @@ Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, Git
 <!--https://github.com/anuraghazra/github-readme-stats-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars,issues,contribs&show_icons=true&theme=algolia&card_width=850)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata,jupyter+notebook&show=java,python)
 </div>
 </details>
 
@@ -90,6 +85,7 @@ Pinecone, Google's Gemini AI (formerly BARD), Google's Vertex AI, Langchain, Git
 ------
 
 <details>
-<summary>Contact Information</summary>
-<a href="mailto:ericxmiao@gmail.com">ericxmiao@gmail.com</a>
+<summary>Let's Connect</summary>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/miaoe)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ericxmiao@gmail.com)
 </details>
