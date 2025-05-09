@@ -49,8 +49,10 @@ Well, that's all I have so far. Below are just some more information about me an
 ### Artificial Intelligence and Machine Learning
 ![My Skills (Frameworks)](https://skillicons.dev/icons?perline=8&i=pytorch,tensorflow)
 
-**Concepts**:\\
-Supervised Learning, Unsupervised Learning, Reinforcement Learning\\
+**Concepts**:
+
+Supervised Learning, Unsupervised Learning, Reinforcement Learning
+
 Neural Networks (MLP, CNN, RNN, GNN), Auto-encoders, Attention and Transformers, Interpretability, LLM
 
 ### Tools and Libraries
@@ -59,12 +61,9 @@ Neural Networks (MLP, CNN, RNN, GNN), Auto-encoders, Attention and Transformers,
 
 <!-- section break -->
 
-<h3 align="center">My GitHub Activities and Stats!</h3>
+<h3 align="center">My Activities!</h3>
 
 ------
-
-<details>
-<summary>View Cards</summary>
 
 <div align="center" valign="center">
 
@@ -76,7 +75,6 @@ Neural Networks (MLP, CNN, RNN, GNN), Auto-encoders, Attention and Transformers,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata,jupyter+notebook&show=java,python)
 </div>
-</details>
 
 <!-- section break -->
 
@@ -84,8 +82,8 @@ Neural Networks (MLP, CNN, RNN, GNN), Auto-encoders, Attention and Transformers,
 
 ------
 
-<details>
-<summary>Let's Connect</summary>
+Let's Connect
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/miaoe)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ericxmiao@gmail.com)
-</details>
+
