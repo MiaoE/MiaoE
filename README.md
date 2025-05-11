@@ -47,7 +47,7 @@ Well, that's all I have so far. Below are just some more information about me an
 ![My Skills (Languages)](https://skillicons.dev/icons?perline=8&i=java,py,c,cpp,matlab,arduino)
 
 ### Artificial Intelligence and Machine Learning
-![My Skills (Frameworks)](https://skillicons.dev/icons?perline=8&i=pytorch,tensorflow)
+![My Skills (Frameworks)](https://skillicons.dev/icons?perline=8&i=pytorch,tensorflow,sklearn)
 
 **Concepts**:
 
