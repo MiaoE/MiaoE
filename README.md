@@ -68,7 +68,7 @@ Neural Networks (MLP, CNN, RNN, GNN), Auto-encoders, Attention and Transformers,
 <div align="center" valign="center">
 
 <!--https://git.io/streak-stats-->
-![GitHub Streak](https://streak-stats.demolab.com?user=MiaoE&theme=algolia&card_width=850&exclude_days=Sun)
+![GitHub Streak](https://streak-stats.demolab.com?user=MiaoE&theme=algolia&card_width=850)
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars,issues,contribs&show_icons=true&theme=algolia&card_width=850)
