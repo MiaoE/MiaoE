@@ -16,7 +16,7 @@ My current focus is on ML/AI (very broad terms), but my interests lie in compute
 I dislike sitting in front of computer for long times, so I explored a lot of hobbies to enjoy. I love driving stick, biking, going to gun and airgun ranges, learning how to 3D design
 and 3D printing, self-learning flight training manual, and just chillin at home watching YouTube and learning new things. There are also goals I am ambitiously pursuing, including getting a motorcycle license, a pilot's license for both fixed-wing aircrafts and helicopters, finishing the project I mentioned before the next decade, and travelling around the world :D
 
-Well, that's all I have so far. Below are just some more information about me and my technical skills. **Plz hire me**
+Thank you for visiting my profile. Below are just some more information about me. **Plz hire me**
 </details>
 
 <!-- Subsections of my profile -->
