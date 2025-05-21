@@ -35,12 +35,12 @@ Thank you for visiting my profile. Below are just some more information about me
 
 <!-- section break -->
 
-<h3 align="center">Knowledge</h3>
+<h3 align="center">Skills</h3>
 
 ------
 
 <details>
-<summary>Keeping track of tools, concepts, and skills I learned</summary>
+<!-- <summary>Keeping track of tools, concepts, and skills I learned</summary> -->
 
 ### Skills
 <!-- https://skillicons.dev -->
