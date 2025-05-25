@@ -67,13 +67,18 @@ Neural Networks (MLP, CNN, RNN, GNN), Auto-encoders, Attention and Transformers,
 
 <div align="center" valign="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata,jupyter+notebook&show=java,python)
+
+<details>
+<summary>More Cards</summary>
+
 <!--https://git.io/streak-stats-->
 ![GitHub Streak](https://streak-stats.demolab.com?user=MiaoE&theme=algolia&card_width=850&ring=fc7405&fire=fc7405)
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars,issues,contribs&show_icons=true&theme=algolia&card_width=850)
+</details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata,jupyter+notebook&show=java,python)
 </div>
 
 <!-- section break -->
