@@ -44,7 +44,7 @@ Thank you for visiting my profile. Below are just some more information about me
 
 ### Skills
 <!-- https://skillicons.dev -->
-![My Skills (Languages)](https://skillicons.dev/icons?perline=8&i=java,py,c,cpp,matlab,arduino)
+![My Skills (Languages)](https://skillicons.dev/icons?perline=8&i=py,java,c,cpp,matlab,arduino)
 
 ### Artificial Intelligence and Machine Learning
 ![My Skills (Frameworks)](https://skillicons.dev/icons?perline=8&i=pytorch,tensorflow,sklearn)
@@ -67,13 +67,13 @@ Neural Networks (MLP, CNN, RNN, GNN), Auto-encoders, Attention and Transformers,
 
 <div align="center" valign="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata,jupyter+notebook&show=java,python)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=MiaoE&layout=donut&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=6&hide=stata,jupyter+notebook&show=java,python)
 
 <details>
 <summary>More Cards</summary>
 
 <!--https://git.io/streak-stats-->
-![GitHub Streak](https://streak-stats.demolab.com?user=MiaoE&theme=algolia&card_width=850&ring=fc7405&fire=fc7405)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MiaoE&theme=algolia&card_width=850&ring=fc7405&fire=fc7405)
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoE&hide=stars,issues,contribs&show_icons=true&theme=algolia&card_width=850)
